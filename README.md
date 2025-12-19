@@ -1,12 +1,12 @@
 **Información del coder:**
 
-Nombre: Miguel Angel Rodriguez Cano
+*Nombre:* Miguel Angel Rodriguez Cano
 
-Clan: McCarthy
+*Clan:* McCarthy
 
-Correo: mangelrodca@gmail.com
+*Correo:* mangelrodca@gmail.com
 
-Cédula: 1152467513
+*Cédula:* 1152467513
 
 **Instrucciones:**
 
